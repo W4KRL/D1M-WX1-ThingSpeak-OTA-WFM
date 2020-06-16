@@ -9,4 +9,7 @@ Reports local weather data to ThingSpeak.
 
 Kit of parts and instructions at https://w4krl.com/iot-kits/
 
-
+**TO DO:**
+1. Consider changing from SPIFFS to LittleFS.
+2. Add auto-calibrate to voltage sensor
+3. Additional user parameters
