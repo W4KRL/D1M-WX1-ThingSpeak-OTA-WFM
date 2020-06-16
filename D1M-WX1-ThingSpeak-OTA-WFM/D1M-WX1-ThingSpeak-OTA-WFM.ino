@@ -90,6 +90,7 @@ const String THINGSPEAK_SERVER = "api.thingspeak.com";    // ThingSpeak Server
 const char   AP_PORTAL_NAME[] = "IoT Kits";
 const String CONFIG_FILENAME = "/config.json";            // SPIFFS filename
 const int    OTA_OFFSET = 32;                             // OTA uses first 128 bytes
+
 // *******************************************************
 // ******************* GLOBALS ***************************
 // *******************************************************
