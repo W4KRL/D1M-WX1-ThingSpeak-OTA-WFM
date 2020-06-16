@@ -1,5 +1,5 @@
 // D1M-WX1-ThingSpeak-OTA-WFM.ino
-const int    FW_VERSION  = 1007;
+const int    FW_VERSION  = 1008;
 const String FW_FILENAME = "D1M-WX1-ThingSpeak-OTA-WFM";
 
 // v1008 2020/06/15 beta release
